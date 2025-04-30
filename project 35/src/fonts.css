@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Shark Party';
+  src: url('/fonts/sharkparty.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-shark {
+  font-family: 'Shark Party', sans-serif;
+}
